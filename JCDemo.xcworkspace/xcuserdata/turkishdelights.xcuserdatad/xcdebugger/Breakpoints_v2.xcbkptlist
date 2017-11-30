@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JCDemo/Controllers/ServiceVC.swift"
+            timestampString = "533738152.790569"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JCDemo.ServiceVC.__deallocating_deinit"
+                  moduleName = "JCDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turkishdelights/Desktop/JCDemo/JCDemo/Controllers/ServiceVC.swift"
+                  timestampString = "533738154.182849"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JCDemo.ServiceVC.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; JCDemo.ServiceVC"
+                  moduleName = "JCDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turkishdelights/Desktop/JCDemo/JCDemo/Controllers/ServiceVC.swift"
+                  timestampString = "533738154.184569"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JCDemo.ServiceVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; JCDemo.ServiceVC"
+                  moduleName = "JCDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turkishdelights/Desktop/JCDemo/JCDemo/Controllers/ServiceVC.swift"
+                  timestampString = "533738154.186056"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JCDemo.ServiceVC.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;JCDemo.ServiceVC&gt;"
+                  moduleName = "JCDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turkishdelights/Desktop/JCDemo/JCDemo/Controllers/ServiceVC.swift"
+                  timestampString = "533738154.187446"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JCDemo.ServiceVC.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;JCDemo.ServiceVC&gt;"
+                  moduleName = "JCDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/turkishdelights/Desktop/JCDemo/JCDemo/Controllers/ServiceVC.swift"
+                  timestampString = "533738154.188737"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  JCDemo
-//
-//  Created by Acme Moin on 11/28/17.
-//  Copyright © 2017 Moin Shirazi. All rights reserved.
-//
 
 import UIKit
 
@@ -12,10 +5,20 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
+    var navigationController: UINavigationController!
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        let storyboard = UIStoryboard(name: "Main", bundle: nil)
+      
+        let initialViewController : ViewController
+            = storyboard.instantiateViewController(withIdentifier: "ViewController") as! ViewController
+        self.navigationController = UINavigationController(rootViewController: initialViewController)
+        self.navigationController.navigationBar.isHidden = true
+        self.window?.rootViewController = self.navigationController
+        
         return true
     }
 
